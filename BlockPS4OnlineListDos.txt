@@ -1,24 +1,25 @@
-0.0.0.0 post.net.playstation.net
-0.0.0.0 a278.dscd.akamai.net
-0.0.0.0 get.net.playstation.net
-0.0.0.0 a192.d.akamai.net
-0.0.0.0 fus01.ps4.update.playstation.net
-0.0.0.0 e7856.d.akamaiedge.net
-0.0.0.0 feu01.ps4.update.playstation.net
-0.0.0.0 e7856.d.akamaiedge.net
-0.0.0.0 akamaiedge.net
-0.0.0.0 deu01.ps4.update.playstation.net
-0.0.0.0 a192.h.akamai.net
-0.0.0.0 ps4updptl.eu.np.community.playstation.net
-0.0.0.0 tmdb.np.dl.playstation.net
-0.0.0.0 themis.dl.playstation.net
-0.0.0.0 sf.api.np.km.playstation.net
-0.0.0.0 asm.np.community.playstation.net
-0.0.0.0 artcdnsecure.ribob01.net
-0.0.0.0 api-p014.ribob01.net
-0.0.0.0 apicdn-p014.ribob01.net
-0.0.0.0 t-prof.np.community.playstation.net
-0.0.0.0 ps4.updptl.sp-int.community.playstation.net
-0.0.0.0 ps4updptl.jp.sp-int.community.playstation.net
-0.0.0.0 ps4-eb.ww.np.dl.playstation.net
-0.0.0.0 e16615.api3.akamaiedge.net
+post.net.playstation.net
+a278.dscd.akamai.net
+get.net.playstation.net
+a192.d.akamai.net
+fus01.ps4.update.playstation.net
+e7856.d.akamaiedge.net
+feu01.ps4.update.playstation.net
+e7856.d.akamaiedge.net
+akamaiedge.net
+deu01.ps4.update.playstation.net
+a192.h.akamai.net
+ps4updptl.eu.np.community.playstation.net
+tmdb.np.dl.playstation.net
+themis.dl.playstation.net
+sf.api.np.km.playstation.net
+asm.np.community.playstation.net
+artcdnsecure.ribob01.net
+api-p014.ribob01.net
+apicdn-p014.ribob01.net
+t-prof.np.community.playstation.net
+ps4.updptl.sp-int.community.playstation.net
+ps4updptl.jp.sp-int.community.playstation.net
+ps4-eb.ww.np.dl.playstation.net
+e16615.api3.akamaiedge.net
+akamaiedge.net
