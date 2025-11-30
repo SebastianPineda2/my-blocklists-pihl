@@ -23,3 +23,7 @@ ps4updptl.jp.sp-int.community.playstation.net
 ps4-eb.ww.np.dl.playstation.net
 e16615.api3.akamaiedge.net
 akamaiedge.net
+np.communication.playstation.net
+np.communication.playstation.es
+np.communication.playstation.co
+
