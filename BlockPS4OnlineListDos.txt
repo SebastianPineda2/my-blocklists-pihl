@@ -28,6 +28,3 @@ np.communication.playstation.es
 np.communication.playstation.co
 ps4updptl.us.np.community.playstation.net
 smetrics.aem.playstation.com
-
-
-
