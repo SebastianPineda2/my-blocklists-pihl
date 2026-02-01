@@ -28,3 +28,14 @@ np.communication.playstation.es
 np.communication.playstation.co
 ps4updptl.us.np.community.playstation.net
 smetrics.aem.playstation.com
+44-234-158-207-pushcl.np.communication.playstation.net
+alb001-pushcl.np.communication.playstation.net
+us.np.stun.playstation.net
+party.rnps.dl.playstation.net
+friends.rnps.dl.playstation.net
+rnps-crl.dl.playstation.net
+ps4.np.playstation.net
+44-234-156-100-pushcl.np.communication.playstation.net
+ps4-system.sec.np.dl.playstation.net
+event.api.np.km.playstation.net
+
