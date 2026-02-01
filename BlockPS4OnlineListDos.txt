@@ -38,4 +38,3 @@ ps4.np.playstation.net
 44-234-156-100-pushcl.np.communication.playstation.net
 ps4-system.sec.np.dl.playstation.net
 event.api.np.km.playstation.net
-
