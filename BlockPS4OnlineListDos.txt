@@ -122,6 +122,7 @@ hru01.ps5.update.playstation.net
 hcn01.ps5.update.playstation.net
 hhk01.ps5.update.playstation.net
 hbr01.ps5.update.playstation.net
+ps5.update.playstation.net
 sgst.prod.dl.playstation.net
 gs2.ww.prod.dl.playstation.net
 b0.ww.np.dl.playstation.net
