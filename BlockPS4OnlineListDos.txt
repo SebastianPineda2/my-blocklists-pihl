@@ -42,3 +42,4 @@ fuk01.ps5.update.playstation.net
 ps5.updatelist.api.playstation.com
 feu01.ps5.update.playstation.net
 playstation.net
+doc.dl.playstation.net
